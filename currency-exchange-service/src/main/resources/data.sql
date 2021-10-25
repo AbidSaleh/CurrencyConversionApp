@@ -1,0 +1,22 @@
+--insert into currency_exchange
+--(id,currency_from,currency_to,conversion_multiple,environment)
+--values(10001,'USD','INR',65,'');
+--insert into currency_exchange
+--(id,currency_from,currency_to,conversion_multiple,environment)
+--values(10002,'EUR','INR',75,'');
+--insert into currency_exchange
+--(id,currency_from,currency_to,conversion_multiple,environment)
+--values(10003,'AUD','INR',25,'');
+
+insert into currency_exchange(id,currency_from,currency_to,conversion_multiple,environment)
+values(10001,'USD','BDT',90,'');
+insert into currency_exchange(id,currency_from,currency_to,conversion_multiple,environment)
+values(10002,'USD','JPY',120,'');
+insert into currency_exchange(id,currency_from,currency_to,conversion_multiple,environment)
+values(10003,'BDT','JPY',2,'');
+insert into currency_exchange(id,currency_from,currency_to,conversion_multiple,environment)
+values(10004,'USD','INR',65,'');
+insert into currency_exchange(id,currency_from,currency_to,conversion_multiple,environment)
+values(10005,'EUR','INR',75,'');
+insert into currency_exchange(id,currency_from,currency_to,conversion_multiple,environment)
+values(10006,'AUD','INR',25,'');

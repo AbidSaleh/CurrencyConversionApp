@@ -17,3 +17,22 @@ In this app, the following techs are used:
 9. RabbitMQ for Message Queuing.
 10. Docker for containarizig services.
 
+Some Interactions:
+
+API call:
+
+![](https://github.com/AbidSaleh/CurrencyConversionApp/blob/main/assets/cc_USD_BDT.png)
+
+Api call with feign:
+
+![](https://github.com/AbidSaleh/CurrencyConversionApp/blob/main/assets/cc_feign.png)
+
+Eureka Dashboard:
+
+![](https://github.com/AbidSaleh/CurrencyConversionApp/blob/main/assets/eureka.png)
+
+Zipkin traces:
+
+![](https://github.com/AbidSaleh/CurrencyConversionApp/blob/main/assets/zipkin_trace1.png)
+
+![](https://github.com/AbidSaleh/CurrencyConversionApp/blob/main/assets/zipkin_trace2.png)

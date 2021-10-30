@@ -11,7 +11,7 @@ In this app, the following techs are used:
 3. Feign client to call one service from another.
 4. Eureka naming server as Service registry.
 5. Eureka + Spring Cloud Load Balancer (called from feign) is used for client side laod balancing.
-6. Spring Cloud Gateway as API gateway forcross cutting concerns.
+6. Spring Cloud Gateway as API gateway for cross cutting concerns.
 7. Resilience4j as circuit breaker.
 8. Sleuth and Zipkin for distributed tracing.
 9. RabbitMQ for Message Queuing.
